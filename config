@@ -88,7 +88,7 @@ input type:pointer {
 # You can get the names of your inputs by running: swaymsg -t get_inputs
 # Read `man 5 sway-input` for more information about this section.
 
-font pango:monospace 0.001
+font pango:monospace 0.01
 titlebar_border_thickness 0                                                     
 titlebar_padding 1
 gaps inner 3
